@@ -1,4 +1,4 @@
-# Artigo "Do SELECT ao COMMIT: Um Guia Prático das Linguagem SQL"
+# Artigo "Do SELECT ao COMMIT: Um Guia Prático da Linguagem SQL"
 
 Este repositório é referente ao projeto de gerar um artigo digital com as facilidades das ferramentas de IA. Ele faz parte do bootcamp Santander 2024 - Fundamentos de IA para Devs ministrada pela DIO.
 
@@ -30,7 +30,7 @@ O artigo foi gerado através de prompts direcionados utilizando o modelo de ling
 
 ### Processo de Criação:
 
-1. **Criação das Manchetes**:
+1. **Criação do Título**:
    - Foi pedido ao modelo ChatGPT que criasse 10 manchetes criativas para artigos sobre subconjuntos da linguagem SQL.
    - **Prompt Utilizado**:
      ```plaintext
